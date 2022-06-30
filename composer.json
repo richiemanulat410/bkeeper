@@ -1,0 +1,15 @@
+{
+    "name": "agnie/bkeeper",
+    "autoload": {
+        "psr-4": {
+            "Agnie\\Bkeeper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "agnieve70",
+            "email": "82817691+agnieve70@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
